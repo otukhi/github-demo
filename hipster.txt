@@ -17,3 +17,11 @@ While the Republican leadership claims to be unified on the tax plan they must n
  morning, Representative Kevin Brady of Texas, the Republican chairman of the Ways and Means 
  Committee, walked members through the framework and talked about the importance coming 
  together to fix the tax code.
+
+ 
+ The plan aims to simplify and cut taxes for the middle class by doubling the standard 
+ deduction to $12,000 for individuals and to $24,000 for married couples. That would allow 
+ people to avoid a complicated process of itemizing their taxes to claim various credits
+ and deductions. It would also increase the child tax credit from $1,000 to an unspecified
+ amount and create a new $500 tax credit for dependents, such as the elderly, who are not 
+ children.
