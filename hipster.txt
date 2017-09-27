@@ -10,3 +10,10 @@ ctrl-r (hold the control key and press "r") = redo the last undone change
 Let's start out by creating a new text file. The command is simple, it's just "vi <filename.extension>" So, if we want to create a file named Test.txt we type "vi Test.txt" and press Enter.
 
 When we do that we're presented with a blank screen. In some editors, you can just start typing at this point, but VI has two modes, "Command" mode and "Insert" mode. When you're in "Command" mode you can do things like save the file or close the file. 
+
+
+While the Republican leadership claims to be unified on the tax plan they must now sell it to
+ lawmakers who have proven to be deeply divided this year. At a House retreat on Wednesday
+ morning, Representative Kevin Brady of Texas, the Republican chairman of the Ways and Means 
+ Committee, walked members through the framework and talked about the importance coming 
+ together to fix the tax code.
